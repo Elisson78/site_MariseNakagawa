@@ -20,6 +20,7 @@ export function Header() {
 
     const navLinks = [
         { name: "Início", href: "/" },
+        { name: "Florença", href: "/florenca" },
         { name: "Sobre", href: "#about" },
         { name: "Experiências", href: "#services" },
         { name: "Contato", href: "#contact" },
